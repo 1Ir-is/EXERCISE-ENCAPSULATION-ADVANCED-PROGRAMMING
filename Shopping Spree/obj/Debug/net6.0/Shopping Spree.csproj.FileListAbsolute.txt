@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\bin\Debug\net6.0\Shopping Spree.exe
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\bin\Debug\net6.0\Shopping Spree.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\bin\Debug\net6.0\Shopping Spree.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\bin\Debug\net6.0\Shopping Spree.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\bin\Debug\net6.0\Shopping Spree.pdb
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\refint\Shopping Spree.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.pdb
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\Shopping Spree.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Shopping Spree\obj\Debug\net6.0\ref\Shopping Spree.dll
