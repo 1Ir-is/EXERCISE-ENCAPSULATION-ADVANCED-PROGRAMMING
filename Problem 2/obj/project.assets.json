@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 2\\Problem 2.csproj",
-      "projectName": "Problem 2",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 2\\Problem 2.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 2\\Class Box Data Validation.csproj",
+      "projectName": "Class Box Data Validation",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 2\\Class Box Data Validation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 2\\obj\\",
       "projectStyle": "PackageReference",

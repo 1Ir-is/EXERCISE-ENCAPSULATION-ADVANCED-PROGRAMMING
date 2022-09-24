@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 1\\Class Box.csproj",
-      "projectName": "Class Box",
-      "projectPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 1\\Class Box.csproj",
+      "projectUniqueName": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Animal Farm\\Animal Farm.csproj",
+      "projectName": "Animal Farm",
+      "projectPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Animal Farm\\Animal Farm.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Problem 1\\obj\\",
+      "outputPath": "E:\\Advanced Programming\\Bai tap\\EXERCISE ENCAPSULATION\\Animal Farm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

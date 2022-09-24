@@ -1,0 +1,15 @@
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\bin\Debug\net6.0\Animal Farm.exe
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\bin\Debug\net6.0\Animal Farm.deps.json
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\bin\Debug\net6.0\Animal Farm.runtimeconfig.json
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\bin\Debug\net6.0\Animal Farm.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\bin\Debug\net6.0\Animal Farm.pdb
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.csproj.AssemblyReference.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.AssemblyInfoInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.AssemblyInfo.cs
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.csproj.CoreCompileInputs.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\refint\Animal Farm.dll
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.pdb
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\Animal Farm.genruntimeconfig.cache
+E:\Advanced Programming\Bai tap\EXERCISE ENCAPSULATION\Animal Farm\obj\Debug\net6.0\ref\Animal Farm.dll
